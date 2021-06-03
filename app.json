@@ -17,9 +17,11 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "host.exp.exponent",
       "supportsTablet": true
     },
     "android": {
+      "package": "host.exp.exponent",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"

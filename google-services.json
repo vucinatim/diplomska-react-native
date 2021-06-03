@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1025178197024",
+    "firebase_url": "https://web-menu-3a75f.firebaseio.com",
+    "project_id": "web-menu-3a75f",
+    "storage_bucket": "web-menu-3a75f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025178197024:android:58e5b1eab4f9ab490e7045",
+        "android_client_info": {
+          "package_name": "com.telebajski.webmenu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025178197024-lf1lrp98t6dr9r5gqbg80lfbfnev0oso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.telebajski.webmenu",
+            "certificate_hash": "5fe02fa2f134653f3eff058a09525684f5755aa7"
+          }
+        },
+        {
+          "client_id": "1025178197024-nqg2d7lhu4d177qha5ehj7phh685bcki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNUfDxrD9i3Cre34v2HeR9pZVRgrB3Hso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025178197024-nqg2d7lhu4d177qha5ehj7phh685bcki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
